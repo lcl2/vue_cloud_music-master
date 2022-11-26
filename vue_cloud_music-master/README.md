@@ -1,9 +1,6 @@
 ## vue_cloud_music
 
 
-## 各位大佬代码都拿了,点个star再走呗
-
-## 若要在网上发布,请注明出处,谢谢!
 
 
 ## 介绍
@@ -16,9 +13,7 @@
 http://www.codeman.ink/
 
 
-## 效果演示
 
-[【vue全家桶项目】仿网易云音乐 附源码和线上demo_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Sy4y1g75D)
 
 
 #### 注意
